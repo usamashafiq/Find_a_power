@@ -1,0 +1,2 @@
+# Find_a_power
+Write a function compute power that accept two numbers x,y and compute x raised to the power y using for loop. The function call should work with one argument; in that case default value of power should be 2. Write the main function and call compute power function to find square of a number by passing one argument only. Find the cube of a number by passing two arguments. Find square by passing two arguments.
